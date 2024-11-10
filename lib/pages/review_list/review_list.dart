@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ReviewList extends StatefulWidget {
-  const ReviewList({Key? key}) : super(key: key);
+  const ReviewList({super.key});
 
   static const String route = '/review_list';
 
